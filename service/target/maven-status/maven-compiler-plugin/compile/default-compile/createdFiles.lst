@@ -1,0 +1,5 @@
+springboot\repositories\UserRepository.class
+springboot\entities\User.class
+springboot\controllers\userController.class
+springboot\controllers\UserService.class
+springboot\serviceApp.class
